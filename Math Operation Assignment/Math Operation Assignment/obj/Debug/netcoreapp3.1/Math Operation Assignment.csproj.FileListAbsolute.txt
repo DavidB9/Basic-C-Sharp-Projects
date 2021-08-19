@@ -1,0 +1,13 @@
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Math Operation Assignment\Math Operation Assignment\bin\Debug\netcoreapp3.1\Math Operation Assignment.exe
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Math Operation Assignment\Math Operation Assignment\bin\Debug\netcoreapp3.1\Math Operation Assignment.deps.json
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Math Operation Assignment\Math Operation Assignment\bin\Debug\netcoreapp3.1\Math Operation Assignment.runtimeconfig.json
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Math Operation Assignment\Math Operation Assignment\bin\Debug\netcoreapp3.1\Math Operation Assignment.runtimeconfig.dev.json
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Math Operation Assignment\Math Operation Assignment\bin\Debug\netcoreapp3.1\Math Operation Assignment.dll
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Math Operation Assignment\Math Operation Assignment\bin\Debug\netcoreapp3.1\Math Operation Assignment.pdb
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Math Operation Assignment\Math Operation Assignment\obj\Debug\netcoreapp3.1\Math Operation Assignment.csprojAssemblyReference.cache
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Math Operation Assignment\Math Operation Assignment\obj\Debug\netcoreapp3.1\Math Operation Assignment.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Math Operation Assignment\Math Operation Assignment\obj\Debug\netcoreapp3.1\Math Operation Assignment.AssemblyInfo.cs
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Math Operation Assignment\Math Operation Assignment\obj\Debug\netcoreapp3.1\Math Operation Assignment.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Math Operation Assignment\Math Operation Assignment\obj\Debug\netcoreapp3.1\Math Operation Assignment.dll
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Math Operation Assignment\Math Operation Assignment\obj\Debug\netcoreapp3.1\Math Operation Assignment.pdb
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Math Operation Assignment\Math Operation Assignment\obj\Debug\netcoreapp3.1\Math Operation Assignment.genruntimeconfig.cache
