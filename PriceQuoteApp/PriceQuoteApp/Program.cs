@@ -35,8 +35,8 @@ namespace PriceQuoteApp
                 else
                 {
                     double quote = ((width * height * length) * weight) / 100 ;
-                    Console.WriteLine("Your estimated total for shipping this package is:");
-                    Console.WriteLine("£" + quote);
+                    Console.WriteLine("Your estimated total for shipping this package is: £" + quote);
+                    Console.WriteLine("Thank you");   
                     Console.Read();
                 }
 
