@@ -10,3 +10,4 @@ C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\S
 C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.dll
 C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.pdb
 C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.genruntimeconfig.cache
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.csprojAssemblyReference.cache

@@ -13,7 +13,7 @@ namespace Strings
             string sentence = string.Concat(opening, middle, end);
 
             string testString = "converted to upper case";
-            testString.ToUpper();
+            testString = testString.ToUpper();
 
             StringBuilder sb = new StringBuilder();
             sb.Append("My name is David.");
