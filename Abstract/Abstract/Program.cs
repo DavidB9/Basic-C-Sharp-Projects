@@ -10,6 +10,8 @@ namespace Abstract
             emp.FirstName = "Sample";
             emp.LastName = "Student";
             emp.SayName();
+            IQuittable test = new Employee();
+            test.Quit();
             Console.Read();
         }
     }
