@@ -1,0 +1,12 @@
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\FIle IO\FIle IO\bin\Debug\netcoreapp3.1\FIle IO.exe
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\FIle IO\FIle IO\bin\Debug\netcoreapp3.1\FIle IO.deps.json
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\FIle IO\FIle IO\bin\Debug\netcoreapp3.1\FIle IO.runtimeconfig.json
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\FIle IO\FIle IO\bin\Debug\netcoreapp3.1\FIle IO.runtimeconfig.dev.json
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\FIle IO\FIle IO\bin\Debug\netcoreapp3.1\FIle IO.dll
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\FIle IO\FIle IO\bin\Debug\netcoreapp3.1\FIle IO.pdb
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\FIle IO\FIle IO\obj\Debug\netcoreapp3.1\FIle IO.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\FIle IO\FIle IO\obj\Debug\netcoreapp3.1\FIle IO.AssemblyInfo.cs
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\FIle IO\FIle IO\obj\Debug\netcoreapp3.1\FIle IO.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\FIle IO\FIle IO\obj\Debug\netcoreapp3.1\FIle IO.dll
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\FIle IO\FIle IO\obj\Debug\netcoreapp3.1\FIle IO.pdb
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\FIle IO\FIle IO\obj\Debug\netcoreapp3.1\FIle IO.genruntimeconfig.cache
