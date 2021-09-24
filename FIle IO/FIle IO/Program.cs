@@ -9,8 +9,16 @@ namespace FIle_IO
         {
             Console.WriteLine("Please enter a number");
             string number = Console.ReadLine();
-            File.WriteAllText("file.text", number);
-            Console.WriteLine(File.ReadAllText("file.text"));
+            Console.WriteLine(number);
+
+            using(StreamWriter file = new StreamWriter("file.txt",true))
+            {
+                file.WriteLine(number + " ");
+            }
+            using(StreamReader file = new StreamReader("file.txt", true))
+            {
+                Console.WriteLine(file.ReadToEnd());
+            }
             Console.Read();
         }
     }

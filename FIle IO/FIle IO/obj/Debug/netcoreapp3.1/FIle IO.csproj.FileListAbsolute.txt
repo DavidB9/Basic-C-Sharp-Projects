@@ -10,3 +10,5 @@ C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\F
 C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\FIle IO\FIle IO\obj\Debug\netcoreapp3.1\FIle IO.dll
 C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\FIle IO\FIle IO\obj\Debug\netcoreapp3.1\FIle IO.pdb
 C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\FIle IO\FIle IO\obj\Debug\netcoreapp3.1\FIle IO.genruntimeconfig.cache
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\FIle IO\FIle IO\obj\Debug\netcoreapp3.1\FIle IO.csprojAssemblyReference.cache
+C:\Users\david\Desktop\Pitman Training course\C# Basics\Basic-C-Sharp-Projects\FIle IO\FIle IO\obj\Debug\netcoreapp3.1\FIle IO.GeneratedMSBuildEditorConfig.editorconfig
